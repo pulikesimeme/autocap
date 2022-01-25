@@ -28,7 +28,7 @@ async def editing(bot, message):
              file_caption = f"**{message.caption}**"                
           else:
              file_caption = ""         
-      file_caption = file_caption.replace("@Pulikesi_Meme","-")                                          
+      file_caption = file_caption.replace("@Pulikesi_Meme -","")                                          
       try:
           if caption_position == "top":
              await bot.edit_message_caption(

@@ -43,7 +43,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pulikesimeme/AutoCaption-Ts_Bot-Clone?organization=pulikesimeme&organization=pulikesimeme)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pulikesimeme/autocap?organization=pulikesimeme&organization=pulikesimeme)
 
 ## Please note
 

@@ -27,7 +27,9 @@ async def editing(bot, message):
           if message.caption:                        
              file_caption = f"**{message.caption}**"                
           else:
-             file_caption = ""           
+             file_caption = "" 
+              
+      file_caption.remove("@Pulikesi_Meme -")
                                                  
       try:
           if caption_position == "top":
